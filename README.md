@@ -9,6 +9,3 @@ Requirements:
 * Implement validation to ensure that both username and password fields are not empty.
 * Implement a secure authentication mechanism to verify the username and password. You can use hardcoded credentials for simplicity.
 * After successful authentication, navigate the user to a welcome screen displaying a welcome message.
-
-
-igor.vieira@tallertechnologies.net
